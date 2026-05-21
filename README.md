@@ -22,3 +22,4 @@ Dashboard interactivo desarrollado en R Shiny usando datos del Banco Mundial.
 ## Autor
 
 Mirella Guillermo
+<img width="1895" height="958" alt="image" src="https://github.com/user-attachments/assets/3507d28c-f45d-459b-99bc-d422403bfa98" />
